@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1733326197,,"wq"
+|2,0,1733326517,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,58 @@
 # Registers:
 
 # File marks:
-'0  5  0  ~/pavan.java
-|4,48,5,0,1733326197,"~/pavan.java"
+'0  4  0  ~/.gitignore
+|4,48,4,0,1733326517,"~/.gitignore"
+'1  4  0  ~/dell.java
+|4,49,4,0,1733326475,"~/dell.java"
+'2  5  0  ~/pavan.java
+|4,50,5,0,1733326197,"~/pavan.java"
 
 # Jumplist (newest first):
+-'  4  0  ~/.gitignore
+|4,39,4,0,1733326517,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733326491,"~/.gitignore"
+-'  4  0  ~/dell.java
+|4,39,4,0,1733326475,"~/dell.java"
+-'  4  0  ~/dell.java
+|4,39,4,0,1733326475,"~/dell.java"
+-'  1  0  ~/dell.java
+|4,39,1,0,1733326431,"~/dell.java"
+-'  1  0  ~/dell.java
+|4,39,1,0,1733326431,"~/dell.java"
+-'  5  0  ~/pavan.java
+|4,39,5,0,1733326197,"~/pavan.java"
+-'  5  0  ~/pavan.java
+|4,39,5,0,1733326197,"~/pavan.java"
+-'  5  0  ~/pavan.java
+|4,39,5,0,1733326197,"~/pavan.java"
 -'  5  0  ~/pavan.java
 |4,39,5,0,1733326197,"~/pavan.java"
 -'  1  0  ~/pavan.java
 |4,39,1,0,1733326151,"~/pavan.java"
+-'  1  0  ~/pavan.java
+|4,39,1,0,1733326151,"~/pavan.java"
+-'  1  0  ~/pavan.java
+|4,39,1,0,1733326151,"~/pavan.java"
+-'  1  0  ~/pavan.java
+|4,39,1,0,1733326151,"~/pavan.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1733326514	0
+	"	4	0
+	^	4	0
+	.	3	7
+	+	3	7
+
+> ~/dell.java
+	*	1733326473	0
+	"	4	0
+	^	4	0
+	.	3	15
+	+	3	15
 
 > ~/pavan.java
 	*	1733326195	0
